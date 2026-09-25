@@ -1,0 +1,46 @@
+{
+  "version": 1,
+  "scope": "curated analytical proof and reviews; no raw private sources",
+  "files": [
+    {
+      "path": "FORMAL_SCOPE_A_0900_RU.md",
+      "bytes": 2946,
+      "sha256": "99411d4525a134d37dbfd19df0ee59141301c3eea1321d2c4221a59bb2429a65"
+    },
+    {
+      "path": "PROOF_B_V3_RU.md",
+      "bytes": 18397,
+      "sha256": "3c11715b284d27e92abf8aea5624c4134019a84b16eccd7226713adf7b65ef29"
+    },
+    {
+      "path": "README.md",
+      "bytes": 1110,
+      "sha256": "8f0e567fce95b588c2bdd14ddcfabf0b3a9c416401c3e1e880f3fa2abc83588d"
+    },
+    {
+      "path": "REVIEW_A_V1_RU.md",
+      "bytes": 12798,
+      "sha256": "fc401f4a07fdf199924a56643c1a3a804fac654e5a4bebfb8181b0b63604fce1"
+    },
+    {
+      "path": "REVIEW_A_V2_RU.md",
+      "bytes": 4594,
+      "sha256": "497c0cd91756d23eb4b707a25a4652d4b3b00b8dcd2fce96aea8ada146704213"
+    },
+    {
+      "path": "SEMANTIC_AUDIT_A_0900_RU.md",
+      "bytes": 10303,
+      "sha256": "e466d6129ca2cca8720d4a1c4c29e9b8ffa1f9c0d93c00a81b18d45dfffbbd01"
+    },
+    {
+      "path": "check_folded_transport.py",
+      "bytes": 2709,
+      "sha256": "3605469304da713949b965fecd959d4bb8ef7f20550d0ba52ffb8905cabebdc0"
+    },
+    {
+      "path": "coordinator-check.json",
+      "bytes": 235,
+      "sha256": "a89f96aae6b5d3f3f7cc1f194c8d6b25df78387d1be7ffed6479f90b3ab8f58f"
+    }
+  ]
+}
